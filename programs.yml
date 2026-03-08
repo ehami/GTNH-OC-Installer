@@ -5,9 +5,9 @@ programs:
     configDescriptorUrl: https://raw.githubusercontent.com/Navatusein/GTNH-OC-Infusion-Control/main/config-descriptor.yml
 
   - name: Water Line Control
-    description: Program for the automation of Grate water production from t3 to t8
-    archiveUrl: https://github.com/Navatusein/GTNH-OC-Water-Line-Control/releases/latest/download/WaterLineControl.tar
-    configDescriptorUrl: https://raw.githubusercontent.com/Navatusein/GTNH-OC-Water-Line-Control/main/config-descriptor.yml
+    description: Program for the automation of Grade water production from t1 to t8
+    archiveUrl: https://github.com/ehami/GTNH-OC-Water-Line-Control/releases/latest/download/WaterLineControl.tar
+    configDescriptorUrl: https://raw.githubusercontent.com/ehami/GTNH-OC-Water-Line-Control/main/config-descriptor.yml
 
   - name: LSC Control
     description: Program for managing a battery, generators connected to it and large energy consumers

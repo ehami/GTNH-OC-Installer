@@ -11,8 +11,8 @@ local programs = {
   },
   {
     name = "Water Line Control",
-    description = "Program for the automation of Grate water production from t3 to t8",
-    url = "https://github.com/Navatusein/GTNH-OC-Water-Line-Control/releases/latest/download/WaterLineControl.tar"
+    description = "Program for the automation of Grade water production from t1 to t8",
+    url = "https://github.com/ehami/GTNH-OC-Water-Line-Control/releases/latest/download/WaterLineControl.tar"
   },
   {
     name = "Teleposer Control",
